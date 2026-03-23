@@ -1,0 +1,5 @@
+- **2025-08-25**: [Resumen webHelpers Acordeón](../history/log.md#resumen-webhelpers-acordeón)
+- **2025-07-18**: [Helpers en PHP](../history/log.md#helpers-en-php)
+- **2025-06-06**: [Plugin Timeline Shortcode](../history/log.md#plugin-timeline-shortcode)
+- **2025-03-21**: [Pago Magna Clase Shortcode](../history/log.md#pago-magna-clase-shortcode)
+- **2025-02-17**: [Incrustar shortcode con ACF](../history/log.md#incrustar-shortcode-con-acf)
