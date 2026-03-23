@@ -2,7 +2,7 @@
 /**
  * Plugin Name: EWEB Core WebHelpers Pro
  * Description: Professional utility suite for WordPress. Modular collection of performance, security, and development helpers. Includes support for WPML, ACF, and automated GitHub updates. Part of the EWEB Plugin Suite.
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author: Yisus Develop
  * Author URI: https://github.com/Yisus-Develop
  * Plugin URI: https://enlaweb.co/
