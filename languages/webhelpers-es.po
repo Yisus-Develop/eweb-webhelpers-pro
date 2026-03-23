@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EWEB - Mars Challenge Webhelpers\n"
+"POT-Creation-Date: 2026-01-13 18:00+0000\n"
+"PO-Revision-Date: 2026-01-14 01:47+0000\n"
+"Last-Translator: Yisus Dev\n"
+"Language-Team: Mars Challenge\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Domain: webhelpers\n"
+
+# --- Strings using Keys (icl_t) ---
+
+msgid "card_zer_title"
+msgstr "JÓVENES (ZERS)"
+
+msgid "card_zer_desc"
+msgstr "Tengo 15 a 29 años y quiero participar en un hackathon."
+
+msgid "card_teacher_title"
+msgstr "MAESTRO O MENTOR"
+
+msgid "card_teacher_desc"
+msgstr "Quiero guiar e inspirar a los Zers."
+
+msgid "card_inst_title"
+msgstr "INSTITUCIÓN EDUCATIVA"
+
+msgid "card_inst_desc"
+msgstr "Represento a una escuela, universidad o centro técnico."
+
+msgid "card_company_title"
+msgstr "EMPRESA"
+
+msgid "card_company_desc"
+msgstr "Quero colaborar con recursos, mentoría o desafíos."
+
+msgid "card_city_title"
+msgstr "CIUDAD / GOBIERNO LOCAL"
+
+msgid "card_city_desc"
+msgstr "Mi ciudad quiere ser una Mars Challenge City."
+
+msgid "card_partner_title"
+msgstr "MISSION PARTNER / PIONEER"
+
+msgid "card_partner_desc"
+msgstr "Quiero liderar Mars Challenge en mi país."
+
+msgid "card_country_title"
+msgstr "PAIS"
+
+msgid "card_country_desc"
+msgstr "Mi país quiere ser una parte de Mars Challenge."
+
+msgid "card_cta_registro"
+msgstr "Registrarme aquí"
+
+msgid "placeholder"
+msgstr "Selecciona un perfil para continuar."
+
+msgid "aria_label"
+msgstr "Sección de registro"
+
+
+# --- Strings using Text (__) ---
+
+msgid "Selecciona un país para buscar o escribe tu ciudad."
+msgstr "Selecciona un país para buscar o escribe tu ciudad."
+
+msgid "Escribe 2+ letras para buscar (si no aparece, escríbela tal cual)."
+msgstr "Escribe 2+ letras para buscar (si no aparece, escríbela tal cual)."
+
+msgid "Escribe tu ciudad tal cual aparece en tu documento."
+msgstr "Escribe tu ciudad tal cual aparece en tu documento."
+
+msgid "No hay sugerencias para esa búsqueda. Puedes escribir tu ciudad tal cual."
+msgstr "No hay sugerencias para esa búsqueda. Puedes escribir tu ciudad tal cual."
+
+msgid "No hay sugerencias ahora. Escribe tu ciudad tal cual."
+msgstr "No hay sugerencias ahora. Escribe tu ciudad tal cual."
+
+msgid "Escribe 2+ letras para buscar…"
+msgstr "Escribe 2+ letras para buscar…"
+
+msgid "Otro…"
+msgstr "Otro…"
